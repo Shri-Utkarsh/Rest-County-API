@@ -8,7 +8,7 @@ export default function Header() {
   return (
     <header className="header-container">
       <div className="header-content">
-        <h2 className="title">Where in the World ?</h2>
+        <h2 className="title">Where in the Worlds ?</h2>
         <p
           className="theme-change"
           
